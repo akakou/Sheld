@@ -7,3 +7,6 @@
 [submodule "Shelder-for-IoT/Sheld-for-IoT-Config"]
 	path = Shelder-for-IoT/Sheld-for-IoT-Config
 	url = https://github.com/akakou/Sheld-for-IoT-Config
+[submodule "Shelder-for-IoT/sample/Sheld-for-IoT-Config-Sample"]
+	path = Shelder-for-IoT/sample/Sheld-for-IoT-Config-Sample
+	url = https://github.com/akakou/Sheld-for-IoT-Config-Sample
