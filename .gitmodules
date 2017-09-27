@@ -1,0 +1,9 @@
+[submodule "Sheldwall"]
+	path = Sheldwall
+	url = https://github.com/akakou/Sheldwall
+[submodule "Shelder-for-IoT/Sheld-for-IoT"]
+	path = Shelder-for-IoT/Sheld-for-IoT
+	url = https://github.com/akakou/Sheld-for-IoT
+[submodule "Shelder-for-IoT/Sheld-for-IoT-Config"]
+	path = Shelder-for-IoT/Sheld-for-IoT-Config
+	url = https://github.com/akakou/Sheld-for-IoT-Config
